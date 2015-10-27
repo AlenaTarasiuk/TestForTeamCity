@@ -1,0 +1,12 @@
+D:\cdp-training\Module 6 - .NET - Part 1\TestDriverPageObject\TestDriverPageObject\bin\Debug\TestDriverPageObject.dll.config
+D:\cdp-training\Module 6 - .NET - Part 1\TestDriverPageObject\TestDriverPageObject\bin\Debug\TestDriverPageObject.dll
+D:\cdp-training\Module 6 - .NET - Part 1\TestDriverPageObject\TestDriverPageObject\bin\Debug\TestDriverPageObject.pdb
+D:\cdp-training\Module 6 - .NET - Part 1\TestDriverPageObject\TestDriverPageObject\bin\Debug\nunit.framework.dll
+D:\cdp-training\Module 6 - .NET - Part 1\TestDriverPageObject\TestDriverPageObject\bin\Debug\WebDriver.dll
+D:\cdp-training\Module 6 - .NET - Part 1\TestDriverPageObject\TestDriverPageObject\bin\Debug\WebDriver.Support.dll
+D:\cdp-training\Module 6 - .NET - Part 1\TestDriverPageObject\TestDriverPageObject\bin\Debug\nunit.framework.xml
+D:\cdp-training\Module 6 - .NET - Part 1\TestDriverPageObject\TestDriverPageObject\bin\Debug\WebDriver.xml
+D:\cdp-training\Module 6 - .NET - Part 1\TestDriverPageObject\TestDriverPageObject\bin\Debug\WebDriver.Support.xml
+D:\cdp-training\Module 6 - .NET - Part 1\TestDriverPageObject\TestDriverPageObject\obj\Debug\AutomatedTests.csprojResolveAssemblyReference.cache
+D:\cdp-training\Module 6 - .NET - Part 1\TestDriverPageObject\TestDriverPageObject\obj\Debug\TestDriverPageObject.dll
+D:\cdp-training\Module 6 - .NET - Part 1\TestDriverPageObject\TestDriverPageObject\obj\Debug\TestDriverPageObject.pdb
